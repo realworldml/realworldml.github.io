@@ -11,11 +11,11 @@ logo: assets/img/logos/globe-logo.png # path to website logo (e.g. for the navig
 watermark: assets/img/logos/globe-logo.png
 #watermark: assets/img/logos/pn-watermark.svg
 url: https://willieneis.github.io # the base hostname & protocol for your site
-baseurl: /probabilistic-numerics-website # the subpath of your site, e.g. /my-github-repo
+baseurl: /new-realworldml-website # the subpath of your site, e.g. /my-github-repo
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Quantifying Uncertainty in Computation.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted on <a href="https://github.com/probabilistic-numerics/website" target="_blank" rel="noopener">GitHub</a>.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -48,11 +48,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: probabilistic-numerics
+github_username: realworldml
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-google_scholar: scholar?q=probabilistic+numerics # your Google Scholar link
+google_scholar: # your Google Scholar link
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -64,8 +64,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
-contact_note: >
-  Open an <a href="https://github.com/probabilistic-numerics/website/issues">issue</a> or <a href="https://github.com/probabilistic-numerics/website/pulls">pull request</a> on GitHub to get in touch or suggest changes to this site.
+contact_note: #
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -74,8 +73,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Probabilistic Numerics  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Experimental Design and Active Learning in the Real World  # your blog must have a name for it to show up in the nav bar
+blog_description: Blog
 permalink: /blog/:year/:title/
 
 # Pagination
