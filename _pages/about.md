@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 This website aims to be a resource for researchers from academia and industry to collect
 major challenges, outline recent advances, and highlight promising future directions
 pertaining to real-world experimental design and active learning problems. We organize
-both [workshops](workshops) and a [talk series](seminars).
+both [workshops](#workshops) and a [talk series](seminars).
 
 ## Overview
 
