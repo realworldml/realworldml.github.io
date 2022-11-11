@@ -43,7 +43,8 @@ more.
 
 ## Online Reading Group
 
-We are holding an online reading group focusing on real-world experimental design and active learning.
+We are holding an online reading group focusing on real-world experimental design and
+active learning. For additional details, see [this page](readinggroup).
 
 1. &nbsp;**December 15, 2022** &nbsp;&nbsp;&nbsp; [To Be Announced](.).
 2. &nbsp;**December 22, 2022** &nbsp;&nbsp;&nbsp; [To Be Announced](.).
