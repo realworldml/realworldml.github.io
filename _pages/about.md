@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 This website aims to be a resource for researchers from academia and industry to collect
 major challenges, outline recent advances, and highlight promising future directions
 pertaining to real-world experimental design and active learning problems. We organize
-a [workshop series](#workshops) and an [online reading group](readinggroup).
+a [workshop series](#workshop-series) and an [online reading group](readinggroup).
 
 ## Overview
 
@@ -33,6 +33,14 @@ more.
 
 <br/>
 
+## Workshop Series
+- ICML 2022: [Adaptive Experimental Design and Active Learning in the Real
+  World](https://realworldml.github.io/).
+- ICML 2020: [Workshop on Real World Experiment Design and Active
+  Learning](https://realworldml.github.io/icml2020/).
+
+<br/>
+
 ## Online Reading Group
 
 We are holding an online reading group focusing on real-world experimental design and active learning.
@@ -44,9 +52,3 @@ We are holding an online reading group focusing on real-world experimental desig
 5. &nbsp;**January 26, 2023** &emsp;&nbsp;&nbsp;&nbsp; [To Be Announced](.).
 
 <br/>
-
-## Workshop Series
-- ICML 2022: [Adaptive Experimental Design and Active Learning in the Real
-  World](https://realworldml.github.io/).
-- ICML 2020: [Workshop on Real World Experiment Design and Active
-  Learning](https://realworldml.github.io/icml2020/).
