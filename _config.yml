@@ -2,9 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Experimental Design and Active Learning in the Real World # the website title
+title: Modern Experimental Design and Active Learning in the Real World # the website title
 #title: Active Machine Learning in the Real World # the website title
 #title: Real World Experimental Design and Active Learning # the website title
+titlesmall: Experimental Design and Active Learning in the Real World  # small title for header
+#titlesmall: "ReALML: Modern EXD and AL in the Real World" # small title for header
 email:
 logo: assets/img/logos/globe-logo.png # path to website logo (e.g. for the navigation bar)
 #logo: assets/img/logos/fibonacci-logo.png # path to website logo (e.g. for the navigation bar)

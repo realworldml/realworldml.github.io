@@ -7,13 +7,13 @@
       {% if site.logo != nil %}
       <div class="navbar-logo">
         <a href="{{ site.baseurl }}/" b>
-          <img src="{{ site.baseurl }}/{{ site.logo }}"> &nbsp; <b>{{ site.title }}</b>
+          <img src="{{ site.baseurl }}/{{ site.logo }}"> &nbsp; <b>{{ site.titlesmall }}</b>
           <!--<img src="{{ site.baseurl }}/{{ site.logo }}"> &nbsp; <b>realworldml.github.io</b>-->
         </a>
       </div>
       {% else %}
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-        {{ site.title }}
+        {{ site.titlesmall }}
       </a>
       {% endif %}
       {% if site.enable_navbar_social %}
