@@ -56,3 +56,13 @@ active learning. For additional details, see [this page](readinggroup).
 8. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
 
 <br/>
+
+<!--## Organizers-->
+
+<!--<img src="assets/img/organizer-circles/mojmir-circle.png" alt="" width="15%" align="top">-->
+<!--&nbsp;-->
+<!--<img src="assets/img/organizer-circles/willie-circle.png" alt="" width="15%" align="top">-->
+<!--&nbsp;-->
+<!--<img src="assets/img/organizer-circles/ilija-circle.png" alt="" width="15%" align="top">-->
+<!--<br/>-->
+<!--Mojmir Mutny &emsp;&nbsp; Willie Neiswanger &emsp;&nbsp; Ilija Bogunovic-->
