@@ -12,8 +12,8 @@ logo: assets/img/logos/globe-logo.png # path to website logo (e.g. for the navig
 #logo: assets/img/logos/fibonacci-logo.png # path to website logo (e.g. for the navigation bar)
 watermark: assets/img/logos/globe-logo.png
 #watermark: assets/img/logos/pn-watermark.svg
-url: https://willieneis.github.io # the base hostname & protocol for your site
-baseurl: /new-realworldml-website # the subpath of your site, e.g. /my-github-repo
+url: https://realworldml.github.io # the base hostname & protocol for your site
+baseurl: /web # the subpath of your site, e.g. /my-github-repo
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Modern Experimental Design and Active Learning in the Real World
 footer_text: >
