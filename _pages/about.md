@@ -43,8 +43,9 @@ more.
 
 ## Online Reading Group
 
-We are holding an online reading group focusing on real-world experimental design and
-active learning. For additional details, see [this page](readinggroup).
+<p style="margin-bottom: 1mm">We are holding an online reading group focusing on <strong>modern adaptive experimental design and active learning in the real world</strong>.  All interested participants are welcome to join! (Zoom details forthcoming).</p>
+<p style="margin-bottom: 1mm">The reading group will be held on <strong>Thursdays</strong> at <strong>10am PDT/California</strong>, <strong>6pm GMT/UK</strong>, <strong>7pm CEST/Zurich</strong> time.</p>
+<p style="margin-bottom: 5mm">The speaker schedule is below. For additional details, <strong>see <a href="readinggroup">this page</a></strong>.</p>
 
 1. &nbsp;**January 12, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kelly W. Zhang](https://kellywzhang.github.io/)
 2. &nbsp;**January 19, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/)
@@ -55,14 +56,31 @@ active learning. For additional details, see [this page](readinggroup).
 7. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
 8. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
 
+
 <br/>
+<h2 style="margin-bottom: 5mm;">Organizers</h2>
+<div class="flex-container" style="display:flex;">
 
-<!--## Organizers-->
+    <div style="width:17%; text-align:center">
+      <img src="assets/img/organizer-circles/mojmir-circle.png" alt="" width="95%">
+      <div><a href="https://mojmirmutny.github.io/">Mojmir Mutny</a></div>
+      <div>ETH Zurich</div>
+    </div>
+    &emsp;&emsp;
 
-<!--<img src="assets/img/organizer-circles/mojmir-circle.png" alt="" width="15%" align="top">-->
-<!--&nbsp;-->
-<!--<img src="assets/img/organizer-circles/willie-circle.png" alt="" width="15%" align="top">-->
-<!--&nbsp;-->
-<!--<img src="assets/img/organizer-circles/ilija-circle.png" alt="" width="15%" align="top">-->
-<!--<br/>-->
-<!--Mojmir Mutny &emsp;&nbsp; Willie Neiswanger &emsp;&nbsp; Ilija Bogunovic-->
+    <div style="width:17%; text-align:center">
+      <img src="assets/img/organizer-circles/willie-circle.png" alt="" width="95%">
+      <!--<div style="width:115%; text-align:left"><a href="https://willieneis.github.io/">Willie Neiswanger</a></div>-->
+      <div><a href="https://willieneis.github.io/">Willie Neiswanger</a></div>
+      <div>Stanford University</div>
+    </div>
+    &emsp;&emsp;
+
+    <div style="width:17%; text-align:center">
+      <img src="assets/img/organizer-circles/ilija-circle.png" alt="" width="95%">
+      <div><a href="http://ilijabogunovic.com/">Ilija Bogunovic</a></div>
+      <div>University College London</div>
+    </div>
+    &emsp;&emsp;
+
+</div>
