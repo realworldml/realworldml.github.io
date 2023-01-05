@@ -2,12 +2,16 @@
 layout: page
 permalink: /readinggroup/
 title: Reading Group
-description: We hold an online reading group focusing on real-world experimental design and active learning.
+description:
 nav: true
 nav_order: 2
 ---
 
-### Schedule
+<p style="margin-bottom: 1mm">We are holding an online reading group focusing on <strong>modern adaptive experimental design and active learning in the real world</strong>.
+All interested participants are welcome to join! (Zoom details forthcoming).  </p>
+<p style="margin-bottom: 5mm">The reading group will be held on <strong>Thursdays</strong> at <strong>10am PDT/California</strong>, <strong>6pm GMT/UK</strong>, <strong>7pm CEST/Zurich</strong> time.</p>
+
+### Speaker Schedule
 
 1. &nbsp;**January 12, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kelly W. Zhang](https://kellywzhang.github.io/)
 2. &nbsp;**January 19, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/)
