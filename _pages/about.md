@@ -9,10 +9,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 <br/>
 
-This website aims to be a resource for researchers from academia and industry to collect
-major challenges, outline recent advances, and highlight promising future directions
-pertaining to real-world experimental design and active learning problems. We organize
-a [workshop series](#workshop-series) and an [online reading group](readinggroup).
+This website aims to be a resource for researchers from academia and industry to
+understand major challenges, outline recent advances, and highlight promising future
+directions in the areas of real-world experimental design and active learning. We
+organize a [workshop series](#workshopseries) and an [online reading
+group](readinggroup).
 
 ## Overview
 
@@ -30,6 +31,7 @@ benefits in emerging high impact applications, such as **materials design**, **d
 discovery**, **algorithm configuration**, **crowdsourcing**, **citizen science**,
 **computational biology**, **AutoML**, **robotics**, **reinforcement learning**, and
 more.
+<a name="workshopseries"></a>
 
 <br/>
 
