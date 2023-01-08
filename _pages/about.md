@@ -13,7 +13,7 @@ This website aims to be a resource for researchers from academia and industry to
 understand major challenges, outline recent advances, and highlight promising future
 directions in the areas of real-world experimental design and active learning. We
 organize a [workshop series](#workshopseries) and an [online reading
-group](readinggroup).
+group](#readinggroup).
 
 ## Overview
 
@@ -31,7 +31,19 @@ benefits in emerging high impact applications, such as **materials design**, **d
 discovery**, **algorithm configuration**, **crowdsourcing**, **citizen science**,
 **computational biology**, **AutoML**, **robotics**, **reinforcement learning**, and
 more.
-<a name="workshopseries"></a>
+<div style="margin-bottom: 8mm"></div>
+<img src="assets/img/application-circles/pipette.png" alt="" width="9%">
+<img src="assets/img/application-circles/code.png" alt="" width="9%">
+<img src="assets/img/application-circles/robot.png" alt="" width="9%">
+<img src="assets/img/application-circles/molecule.png" alt="" width="9%">
+<img src="assets/img/application-circles/material.png" alt="" width="9%">
+<img src="assets/img/application-circles/drug.png" alt="" width="9%">
+<img src="assets/img/application-circles/protein.png" alt="" width="9%">
+<img src="assets/img/application-circles/wind.png" alt="" width="9%">
+<img src="assets/img/application-circles/crowd.png" alt="" width="9%">
+<img src="assets/img/application-circles/plasma.png" alt="" width="9%">
+<!--<img src="assets/img/application-circles/molecule_bare.png" alt="" width="8%"> &nbsp;-->
+<a name="workshopseries"></a> <!--due to formatting issues, put link to section here-->
 
 <br/>
 
@@ -40,6 +52,7 @@ more.
   World](https://realworldml.github.io/).
 - ICML 2020: [Workshop on Real World Experiment Design and Active
   Learning](https://realworldml.github.io/icml2020/).
+<a name="readinggroup"></a> <!--due to formatting issues, put link to section here-->
 
 <br/>
 
