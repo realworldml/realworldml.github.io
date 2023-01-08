@@ -15,7 +15,7 @@ watermark: assets/img/logos/globe-logo.png
 url: https://realworldml.github.io # the base hostname & protocol for your site
 baseurl:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Modern Experimental Design and Active Learning in the Real World
+  Website for the research community on Experimental Design and Active Learning in the Real World
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 last_updated: false # set to true if you want to display last updated in the footer
