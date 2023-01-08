@@ -13,7 +13,7 @@ logo: assets/img/logos/globe-logo.png # path to website logo (e.g. for the navig
 watermark: assets/img/logos/globe-logo.png
 #watermark: assets/img/logos/pn-watermark.svg
 url: https://realworldml.github.io # the base hostname & protocol for your site
-baseurl: /web # the subpath of your site, e.g. /my-github-repo
+baseurl:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Modern Experimental Design and Active Learning in the Real World
 footer_text: >
