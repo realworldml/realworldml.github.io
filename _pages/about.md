@@ -50,13 +50,21 @@ more.
 <p style="margin-bottom: 5mm">The speaker schedule is below. For additional details, <strong>see <a href="readinggroup">this page</a></strong>.</p>
 
 1. &nbsp;**January 12, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kelly W. Zhang](https://kellywzhang.github.io/)
+    &emsp;&emsp;&emsp;&emsp;<img src="assets/img/speaker-circles/kelly.png" alt="" width="5%">
 2. &nbsp;**January 19, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/)
+    &emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/kevin_j.png" alt="" width="5%">
 3. &nbsp;**January 26, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Raul Astudillo](https://raulastudillo.netlify.app/)
+    &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/raul.png" alt="" width="5%">
 4. &nbsp;**February 2, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Emmanuel Bengio](https://folinoid.com/)
+    &emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/emmanuel.png" alt="" width="5%">
 5. &nbsp;**February 9, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Zi Wang](https://ziw.mit.edu/)
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img src="assets/img/speaker-circles/zi.png" alt="" width="5%">
 6. &nbsp;**February 16, 2023** &emsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
+    &emsp;&ensp;&nbsp;<img src="assets/img/speaker-circles/johannes.png" alt="" width="5%">
 7. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
+    &emsp;&nbsp;<img src="assets/img/speaker-circles/haitham.png" alt="" width="5%">
 8. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
+    &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/kevin_t.png" alt="" width="5%">
 
 
 <br/>
@@ -64,25 +72,25 @@ more.
 <div class="flex-container" style="display:flex;">
 
     <div style="width:17%; text-align:center">
-      <img src="assets/img/organizer-circles/mojmir-circle.png" alt="" width="95%">
+      <img src="assets/img/organizer-circles/mojmir-circle.png" alt="" width="75%">
       <div><a href="https://mojmirmutny.github.io/">Mojmir Mutny</a></div>
       <div>ETH Zurich</div>
     </div>
-    &emsp;&emsp;
+    &emsp;
 
     <div style="width:17%; text-align:center">
-      <img src="assets/img/organizer-circles/willie-circle.png" alt="" width="95%">
+      <img src="assets/img/organizer-circles/willie-circle.png" alt="" width="75%">
       <!--<div style="width:115%; text-align:left"><a href="https://willieneis.github.io/">Willie Neiswanger</a></div>-->
       <div><a href="https://willieneis.github.io/">Willie Neiswanger</a></div>
       <div>Stanford University</div>
     </div>
-    &emsp;&emsp;
+    &emsp;
 
     <div style="width:17%; text-align:center">
-      <img src="assets/img/organizer-circles/ilija-circle.png" alt="" width="95%">
+      <img src="assets/img/organizer-circles/ilija-circle.png" alt="" width="75%">
       <div><a href="http://ilijabogunovic.com/">Ilija Bogunovic</a></div>
       <div>University College London</div>
     </div>
-    &emsp;&emsp;
+    &emsp;
 
 </div>
