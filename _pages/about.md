@@ -49,7 +49,7 @@ more.
 
 ## Workshop Series
 - ICML 2022: [Adaptive Experimental Design and Active Learning in the Real
-  World](https://realworldml.github.io/).
+  World](https://realworldml.github.io/icml2022/).
 - ICML 2020: [Workshop on Real World Experiment Design and Active
   Learning](https://realworldml.github.io/icml2020/).
 <a name="readinggroup"></a> <!--due to formatting issues, put link to section here-->
