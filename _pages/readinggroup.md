@@ -8,8 +8,9 @@ nav_order: 2
 ---
 
 <p style="margin-bottom: 3mm">We are holding an online reading group focusing on <strong>modern adaptive experimental design and active learning in the real world</strong>.
-All interested participants are welcome to join! (Zoom details forthcoming).  </p>
-<p style="margin-bottom: 5mm">The reading group will be held on <strong>Thursdays</strong> at <strong>10am PST/California</strong>, <strong>6pm GMT/UK</strong>, <strong>7pm CET/Zurich</strong> time. To receive information via email, <a href="https://forms.gle/Ex1ut4YfL8E3qt7W6">subscribe to our mailing list</a>.</p>
+All interested participants are welcome to join!</p>
+<p style="margin-bottom: 3mm">The reading group will be held on <strong>Thursdays</strong> at <strong>10am PST/California</strong>, <strong>6pm GMT/UK</strong>, <strong>7pm CET/Zurich</strong> time. To receive information via email, <a href="https://forms.gle/Ex1ut4YfL8E3qt7W6">subscribe to our mailing list</a>.</p>
+<p style="margin-bottom: 5mm">To join, please use the following <strong>Zoom link:</strong> <a href="https://ethz.zoom.us/j/67585775251">https://ethz.zoom.us/j/67585775251</a></p>
 
 ### Speaker Schedule
 
