@@ -73,12 +73,12 @@ more.
     &emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/emmanuel.png" alt="" width="7%">
 5. &nbsp;**February 9, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Zi Wang](https://ziw.mit.edu/)
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img src="assets/img/speaker-circles/zi.png" alt="" width="7%">
-6. &nbsp;**February 16, 2023** &emsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
-    &emsp;&ensp;&nbsp;<img src="assets/img/speaker-circles/johannes.png" alt="" width="7%">
-7. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
+6. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
     &emsp;&nbsp;<img src="assets/img/speaker-circles/haitham.png" alt="" width="7%">
-8. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
+7. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
     &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/kevin_t.png" alt="" width="7%">
+8. &nbsp;**March 23, 2023** &emsp;&emsp;&nbsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
+    &emsp;&ensp;&nbsp;<img src="assets/img/speaker-circles/johannes.png" alt="" width="7%">
 
 
 <br/>

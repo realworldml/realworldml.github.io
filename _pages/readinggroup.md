@@ -10,7 +10,7 @@ nav_order: 2
 <p style="margin-bottom: 3mm">We are holding an online reading group focusing on <strong>modern adaptive experimental design and active learning in the real world</strong>.
 All interested participants are welcome to join!</p>
 <p style="margin-bottom: 3mm">The reading group will be held on <strong>Thursdays</strong> at <strong>10am PST/California</strong>, <strong>6pm GMT/UK</strong>, <strong>7pm CET/Zurich</strong> time. To receive information via email, <a href="https://forms.gle/Ex1ut4YfL8E3qt7W6">subscribe to our mailing list</a>.</p>
-<p style="margin-bottom: 5mm">To join, please use the following <strong>Zoom link:</strong> <a href="https://ethz.zoom.us/j/67585775251">https://ethz.zoom.us/j/67585775251</a> <img src="../assets/img/zoompass.png" alt="" width="25%"></p>
+<p style="margin-bottom: 7mm">To join, please use the following <strong>Zoom link:</strong> <a href="https://ethz.zoom.us/j/67585775251">https://ethz.zoom.us/j/67585775251</a> <img src="../assets/img/zoompass.png" alt="" width="25%"></p>
 
 ### Speaker Schedule
 
@@ -24,13 +24,14 @@ All interested participants are welcome to join!</p>
     &emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/emmanuel.png" alt="" width="7%">
 5. &nbsp;**February 9, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Zi Wang](https://ziw.mit.edu/)
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/zi.png" alt="" width="7%">
-6. &nbsp;**February 16, 2023** &emsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
-    &emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/johannes.png" alt="" width="7%">
-7. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
+6. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
     &emsp;&nbsp;<img src="../assets/img/speaker-circles/haitham.png" alt="" width="7%">
-8. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
+7. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
     &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/kevin_t.png" alt="" width="7%">
+8. &nbsp;**March 23, 2023** &emsp;&emsp;&nbsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
+    &emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/johannes.png" alt="" width="7%">
 
+<div style="margin-bottom: 7mm;"></div>
 ### Talk Details
 <div style="margin-bottom: 5mm;"></div>
 
