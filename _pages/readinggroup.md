@@ -32,7 +32,20 @@ All interested participants are welcome to join!</p>
     &emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/johannes.png" alt="" width="7%">
 
 <div style="margin-bottom: 7mm;"></div>
-### Talk Details
+### Next Talk
+<div style="margin-bottom: 5mm;"></div>
+
+<img src="../assets/img/speaker-circles/kevin_j.png" alt="" width="15%"> &emsp;
+[Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/), &nbsp; **January 19, 2023**
+
+**Title:** Lessons learned in deploying bandit algorithms
+
+**Abstract:** Bandit algorithms, and adaptive experimentation more generally, promise the same statistically significant guarantees as, say, non-adaptive A/B testing, but require far fewer trials which results in a savings in time and money. However, such promises hold only under assumptions that rarely hold in practice, and for algorithms that may require unrealistic data interaction patterns. This talk explores this tension through two case studies in deploying state of the art algorithms to a large online experimentation platform and a robotics application in an industrial setting. Problems will be discussed, sensible solutions will be proposed, and opinions will be offered.
+
+**Bio:** Kevin Jamieson is an Assistant Professor in the <a href="http://cs.washington.edu/">Paul G. Allen School of Computer Science & Engineering</a> at the University of Washington and is the Guestrin Endowed Professor in Artificial Intelligence and Machine Learning. He received his B.S. from the University of Washington, his M.S. from Columbia University, and his Ph.D. In 2015 from the University of Wisconsin - Madison under the advisement of <a href="http://nowak.ece.wisc.edu/">Robert Nowak</a>, all in electrical engineering. He returned to the University of Washington as faculty in 2017 after a postdoc in the <a href="https://amplab.cs.berkeley.edu/">AMP lab</a> at the University of California, Berkeley working with <a href="https://people.eecs.berkeley.edu/~brecht/">Benjamin Recht</a>. Jamieson's work has been recognized by an NSF CAREER award and Amazon Faculty Research award. Jamieson’s research explores how to leverage already-collected data to inform what future measurements to make next, in a closed loop.
+
+<div style="margin-bottom: 7mm;"></div>
+### Past Talks
 <div style="margin-bottom: 5mm;"></div>
 
 <img src="../assets/img/speaker-circles/kelly.png" alt="" width="15%"> &emsp;
