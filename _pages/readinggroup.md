@@ -36,6 +36,24 @@ nav_order: 2
 ### Next Talk
 <div style="margin-bottom: 5mm;"></div>
 
+<img src="../assets/img/speaker-circles/raul.png" alt="" width="15%"> &emsp;
+[Raul Astudillo](https://raulastudillo.netlify.app/), &nbsp; **January 26, 2023**
+
+**Title:** Composite Bayesian Optimization for Efficient and Scalable Adaptive Experimentation
+
+**Abstract:** Experimentation is ubiquitous in science and a key driver of human progress. Many experimentation tasks can be cast as optimization problems with expensive or time-consuming to evaluate objective functions. Bayesian optimization has emerged as a powerful tool for tackling such problems. However, many experimentation tasks arising in high-stakes applications such as materials design and drug discovery are out of the reach of standard approaches. In this talk, I will describe recent advances that aim to address this challenge. In particular, I will focus on how the composite structure of many experimentation tasks can be exploited to improve the efficiency and scalability of Bayesian optimization methods. Finally, I will provide directions for future research toward a general framework for efficient end-to-end adaptive experimental design in complex settings.
+
+**Relevant Papers:**
+- [Bayesian Optimization of Function Networks](https://arxiv.org/abs/2112.15311)
+- [Thinking inside the box: A tutorial on grey-box Bayesian optimization](https://arxiv.org/abs/2201.00272)
+- [Preference Exploration for Efficient Bayesian Optimization with Multiple Outcomes](https://arxiv.org/abs/2203.11382)
+
+**Bio:** Raul is a Postdoctoral Scholar in the Department of Computing and Mathematical Sciences at Caltech, hosted by Professor Yisong Yue. He obtained his Ph.D. in Operations Research and Information Engineering from Cornell University, working under the supervision of Professor Peter Frazier. Before that, he completed the undergraduate program in Mathematics offered jointly by the University of Guanajuato and the Center for Research in Mathematics in Mexico. In 2021, he was a Visiting Researcher at Meta within the Adaptive Experimentation team led by Eytan Bakshy. Raul's research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian methods for efficient sequential data collection. His work combines principled decision-theoretic foundations with sophisticated machine learning tools to develop frameworks for adaptive experimentation in robotics, materials design, cellular agriculture, and other scientific applications.
+
+<div style="margin-bottom: 7mm;"></div>
+### Past Talks
+<div style="margin-bottom: 5mm;"></div>
+
 <img src="../assets/img/speaker-circles/kevin_j.png" alt="" width="15%"> &emsp;
 [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/), &nbsp; **January 19, 2023**
 
@@ -49,9 +67,7 @@ nav_order: 2
 
 **Bio:** Kevin Jamieson is an Assistant Professor in the <a href="http://cs.washington.edu/">Paul G. Allen School of Computer Science & Engineering</a> at the University of Washington and is the Guestrin Endowed Professor in Artificial Intelligence and Machine Learning. He received his B.S. from the University of Washington, his M.S. from Columbia University, and his Ph.D. In 2015 from the University of Wisconsin - Madison under the advisement of <a href="http://nowak.ece.wisc.edu/">Robert Nowak</a>, all in electrical engineering. He returned to the University of Washington as faculty in 2017 after a postdoc in the <a href="https://amplab.cs.berkeley.edu/">AMP lab</a> at the University of California, Berkeley working with <a href="https://people.eecs.berkeley.edu/~brecht/">Benjamin Recht</a>. Jamieson's work has been recognized by an NSF CAREER award and Amazon Faculty Research award. Jamieson’s research explores how to leverage already-collected data to inform what future measurements to make next, in a closed loop.
 
-<div style="margin-bottom: 7mm;"></div>
-### Past Talks
-<div style="margin-bottom: 5mm;"></div>
+<div style="margin-bottom: 10mm;"></div>
 
 <img src="../assets/img/speaker-circles/kelly.png" alt="" width="15%"> &emsp;
 [Kelly W. Zhang](https://kellywzhang.github.io/), &nbsp; **January 12, 2023**
