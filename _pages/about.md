@@ -56,7 +56,7 @@ more.
 
 <br/>
 
-## Online Reading Group
+## [Online Reading Group](readinggroup)
 
 <p style="margin-bottom: 3mm">We are holding an online reading group focusing on <strong>modern adaptive experimental design and active learning in the real world</strong>.  All interested participants are welcome to join!</p>
 <p style="margin-bottom: 3mm">The reading group will be held on <strong>Thursdays</strong> at <strong>10am PST/California</strong>, <strong>6pm GMT/UK</strong>, <strong>7pm CET/Zurich</strong> time. To add this to your calendar, <a href="https://calendar.google.com/calendar/u/0?cid=Mzg1OTc3M2I0MmJjNDIyNGQxZjE2MDA0ZWQ3OGUzNzlhOGViNzdlM2JiMmQ1NmFlYmZkZTU5M2RkOTVhYTEwN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">click here</a>. To receive information via email, <a href="https://forms.gle/Ex1ut4YfL8E3qt7W6">subscribe to our mailing list</a>.</p>
