@@ -36,6 +36,23 @@ nav_order: 2
 ### Next Talk
 <div style="margin-bottom: 5mm;"></div>
 
+<img src="../assets/img/speaker-circles/emmanuel.png" alt="" width="15%"> &emsp;
+[Emmanuel Bengio](https://folinoid.com/), &nbsp; **February 2, 2023**
+
+**Title:** Introduction to GFlowNet
+
+**Abstract:** GFlowNet, short for Generative Flow Network, is a new generative modeling framework which we think is particularly suited for discrete, combinatorial objects. The idea behind GFN is to estimate (graph-theoretic) flows in a directed acyclic network. The network represents all possible ways of constructing an object, and so knowing the flow gives us a policy which we can follow to sequentially construct objects in an energy-based fashion (i.e., objects are drawn proportionally to some quantity, like a reward or unnormalized density). In this talk I’ll present the framework, the intuition behind it, some nice properties it has, some cool things we can do with it and some really cool avenues for future work such as drug discovery.
+
+**Relevant Papers:**
+- [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399)
+- [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)
+
+**Bio:** Emmanuel Bengio is an ML Scientist at Recursion, working on the intersection of GFlowNets and de-novo drug design. He did his PhD under Joelle Pineau and Doina Precup at McGill/Mila, focusing on understanding generalization in deep RL.
+
+<div style="margin-bottom: 7mm;"></div>
+### Past Talks
+<div style="margin-bottom: 5mm;"></div>
+
 <img src="../assets/img/speaker-circles/raul.png" alt="" width="15%"> &emsp;
 [Raul Astudillo](https://raulastudillo.netlify.app/), &nbsp; **January 26, 2023**
 
@@ -50,9 +67,7 @@ nav_order: 2
 
 **Bio:** Raul is a Postdoctoral Scholar in the Department of Computing and Mathematical Sciences at Caltech, hosted by Professor Yisong Yue. He obtained his Ph.D. in Operations Research and Information Engineering from Cornell University, working under the supervision of Professor Peter Frazier. Before that, he completed the undergraduate program in Mathematics offered jointly by the University of Guanajuato and the Center for Research in Mathematics in Mexico. In 2021, he was a Visiting Researcher at Meta within the Adaptive Experimentation team led by Eytan Bakshy. Raul's research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian methods for efficient sequential data collection. His work combines principled decision-theoretic foundations with sophisticated machine learning tools to develop frameworks for adaptive experimentation in robotics, materials design, cellular agriculture, and other scientific applications.
 
-<div style="margin-bottom: 7mm;"></div>
-### Past Talks
-<div style="margin-bottom: 5mm;"></div>
+<div style="margin-bottom: 10mm;"></div>
 
 <img src="../assets/img/speaker-circles/kevin_j.png" alt="" width="15%"> &emsp;
 [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/), &nbsp; **January 19, 2023**
