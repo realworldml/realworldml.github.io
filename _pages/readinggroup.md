@@ -46,6 +46,7 @@ nav_order: 2
 **Relevant Papers:**
 - [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399)
 - [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)
+- [Colab Notebook](http://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR)
 
 **Bio:** Emmanuel Bengio is an ML Scientist at Recursion, working on the intersection of GFlowNets and de-novo drug design. He did his PhD under Joelle Pineau and Doina Precup at McGill/Mila, focusing on understanding generalization in deep RL.
 
