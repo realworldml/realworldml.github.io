@@ -58,7 +58,7 @@ nav_order: 2
 [Raul Astudillo](https://raulastudillo.netlify.app/), &nbsp; **January 26, 2023**
 
 **Title:** Composite Bayesian Optimization for Efficient and Scalable Adaptive Experimentation
-
+**Video:** [youtube](https://youtu.be/suyiOz4uPPo)
 **Abstract:** Experimentation is ubiquitous in science and a key driver of human progress. Many experimentation tasks can be cast as optimization problems with expensive or time-consuming to evaluate objective functions. Bayesian optimization has emerged as a powerful tool for tackling such problems. However, many experimentation tasks arising in high-stakes applications such as materials design and drug discovery are out of the reach of standard approaches. In this talk, I will describe recent advances that aim to address this challenge. In particular, I will focus on how the composite structure of many experimentation tasks can be exploited to improve the efficiency and scalability of Bayesian optimization methods. Finally, I will provide directions for future research toward a general framework for efficient end-to-end adaptive experimental design in complex settings.
 
 **Relevant Papers:**
@@ -74,7 +74,7 @@ nav_order: 2
 [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/), &nbsp; **January 19, 2023**
 
 **Title:** Lessons learned in deploying bandit algorithms
-
+**Video:** [youtube](https://youtu.be/RM4oIVd85Nk)
 **Abstract:** Bandit algorithms, and adaptive experimentation more generally, promise the same statistically significant guarantees as, say, non-adaptive A/B testing, but require far fewer trials which results in a savings in time and money. However, such promises hold only under assumptions that rarely hold in practice, and for algorithms that may require unrealistic data interaction patterns. This talk explores this tension through two case studies in deploying state of the art algorithms to a large online experimentation platform and a robotics application in an industrial setting. Problems will be discussed, sensible solutions will be proposed, and opinions will be offered.
 
 **Relevant Papers:**
@@ -89,7 +89,7 @@ nav_order: 2
 [Kelly W. Zhang](https://kellywzhang.github.io/), &nbsp; **January 12, 2023**
 
 **Title:** Inference after Adaptive Sampling for Longitudinal Data
-
+**Video:** [youtube](https://youtu.be/o3Hw6BCySXY)
 **Abstract:** Online algorithms that learn to optimize treatments over time are increasingly used in a variety of digital intervention problems. These algorithms repeatedly update parameter estimates as data accrues; these parameter estimates are used to inform treatment decisions. These algorithms are called “adaptive sampling” algorithms and the resulting data is considered “adaptively collected.” In this work, we focus on data collected by a large class of adaptive sampling algorithms that are designed to optimize treatment decisions online using accruing data from multiple users. Combining or “pooling” data across users allows adaptive sampling algorithms to potentially learn faster. However, by pooling, these algorithms induce dependence between the collected user data trajectories; this makes statistical inference on this data-type especially challenging. We provide methods to perform a variety of statistical analyses on such adaptively collected data, including Z-estimation, off-policy analyses, and inferring excursion effects. This work is motivated by our work in designing experiments in which online reinforcement learning algorithms pool data across users to learn to optimize treatment decisions, yet reliable statistical inference is essential for conducting a variety of statistical analyses after the experiment is over.
 
 **Bio:** Kelly W. Zhang is a final-year Ph.D. candidate in computer science at Harvard University advised by Susan Murphy and Lucas Janson. Her research focuses on addressing challenges faced when applying reinforcement learning algorithms to real-world problems. She has developed methods for statistical inference for data collected by bandit and reinforcement learning algorithms, i.e., adaptively collected data. She also works on developing the reinforcement learning algorithm to be used in Oralytics, a mobile health app aimed to help users develop healthy oral hygiene habits, in collaboration with Oral-B and researchers at UCLA and UMichigan. She is supported by an NSF Graduate Research Fellowship.
