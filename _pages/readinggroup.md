@@ -21,15 +21,17 @@ nav_order: 2
     &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/raul.png" alt="" width="7%">
 4. &nbsp;**February 2, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Emmanuel Bengio](https://folinoid.com/)
     &emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/emmanuel.png" alt="" width="7%">
-5. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
+<!---5. &nbsp;**February 16, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Aldo Pacchiano](https://www.aldopacchiano.ai/)
+   &emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/aldo.jpg" alt="" width="7%">-->
+6. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
     &emsp;&nbsp;<img src="../assets/img/speaker-circles/haitham.png" alt="" width="7%">
-6. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
+7. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
     &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/kevin_t.png" alt="" width="7%">
-7. &nbsp;**March 9, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Zi Wang](https://ziw.mit.edu/)
+8. &nbsp;**March 9, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Zi Wang](https://ziw.mit.edu/)
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/zi.png" alt="" width="7%">
-8. &nbsp;**March 16, 2023** &emsp;&emsp;&nbsp;&nbsp; [Viraj Mehta](https://virajm.com/)
+9. &nbsp;**March 16, 2023** &emsp;&emsp;&nbsp;&nbsp; [Viraj Mehta](https://virajm.com/)
     &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/viraj.png" alt="" width="7%">
-9. &nbsp;**March 23, 2023** &emsp;&emsp;&nbsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
+10. &nbsp;**March 23, 2023** &emsp;&emsp;&nbsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
     &emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/johannes.png" alt="" width="7%">
 
 <div style="margin-bottom: 7mm;"></div>
@@ -59,7 +61,8 @@ nav_order: 2
 
 **Title:** Composite Bayesian Optimization for Efficient and Scalable Adaptive Experimentation
 
-**Video:** [youtube](https://youtu.be/suyiOz4uPPo)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/suyiOz4uPPo/0.jpg)](http://www.youtube.com/watch?v=suyiOz4uPPo "Raul Astudillo")
 
 **Abstract:** Experimentation is ubiquitous in science and a key driver of human progress. Many experimentation tasks can be cast as optimization problems with expensive or time-consuming to evaluate objective functions. Bayesian optimization has emerged as a powerful tool for tackling such problems. However, many experimentation tasks arising in high-stakes applications such as materials design and drug discovery are out of the reach of standard approaches. In this talk, I will describe recent advances that aim to address this challenge. In particular, I will focus on how the composite structure of many experimentation tasks can be exploited to improve the efficiency and scalability of Bayesian optimization methods. Finally, I will provide directions for future research toward a general framework for efficient end-to-end adaptive experimental design in complex settings.
 
@@ -77,7 +80,7 @@ nav_order: 2
 
 **Title:** Lessons learned in deploying bandit algorithms
 
-**Video:** [youtube](https://youtu.be/RM4oIVd85Nk)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/RM4oIVd85Nk/0.jpg)](http://www.youtube.com/watch?v=RM4oIVd85Nk "Kevin Jamieson")
 
 **Abstract:** Bandit algorithms, and adaptive experimentation more generally, promise the same statistically significant guarantees as, say, non-adaptive A/B testing, but require far fewer trials which results in a savings in time and money. However, such promises hold only under assumptions that rarely hold in practice, and for algorithms that may require unrealistic data interaction patterns. This talk explores this tension through two case studies in deploying state of the art algorithms to a large online experimentation platform and a robotics application in an industrial setting. Problems will be discussed, sensible solutions will be proposed, and opinions will be offered.
 
@@ -94,7 +97,7 @@ nav_order: 2
 
 **Title:** Inference after Adaptive Sampling for Longitudinal Data
 
-**Video:** [youtube](https://youtu.be/o3Hw6BCySXY)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/o3Hw6BCySXY/0.jpg)](http://www.youtube.com/watch?v=o3Hw6BCySXY "Kelly W. Zhang")
 
 **Abstract:** Online algorithms that learn to optimize treatments over time are increasingly used in a variety of digital intervention problems. These algorithms repeatedly update parameter estimates as data accrues; these parameter estimates are used to inform treatment decisions. These algorithms are called “adaptive sampling” algorithms and the resulting data is considered “adaptively collected.” In this work, we focus on data collected by a large class of adaptive sampling algorithms that are designed to optimize treatment decisions online using accruing data from multiple users. Combining or “pooling” data across users allows adaptive sampling algorithms to potentially learn faster. However, by pooling, these algorithms induce dependence between the collected user data trajectories; this makes statistical inference on this data-type especially challenging. We provide methods to perform a variety of statistical analyses on such adaptively collected data, including Z-estimation, off-policy analyses, and inferring excursion effects. This work is motivated by our work in designing experiments in which online reinforcement learning algorithms pool data across users to learn to optimize treatment decisions, yet reliable statistical inference is essential for conducting a variety of statistical analyses after the experiment is over.
 
