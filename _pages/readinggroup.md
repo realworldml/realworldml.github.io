@@ -21,8 +21,8 @@ nav_order: 2
     &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/raul.png" alt="" width="7%">
 4. &nbsp;**February 2, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Emmanuel Bengio](https://folinoid.com/)
     &emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/emmanuel.png" alt="" width="7%">
-<!---5. &nbsp;**February 16, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Aldo Pacchiano](https://www.aldopacchiano.ai/)
-   &emsp;&emsp;&nbsp;&nbsp;<img src="../assets/img/speaker-circles/aldo.jpg" alt="" width="7%">-->
+5. &nbsp;**February 16, 2023** &emsp;&nbsp; [Aldo Pacchiano](https://www.aldopacchiano.ai/)
+    &emsp;&emsp;&emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/aldo.png" alt="" width="7%">
 6. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
     &emsp;&nbsp;<img src="../assets/img/speaker-circles/haitham.png" alt="" width="7%">
 7. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
@@ -63,6 +63,7 @@ nav_order: 2
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/suyiOz4uPPo/0.jpg)](http://www.youtube.com/watch?v=suyiOz4uPPo "Raul Astudillo")
+<!--<a href="http://www.youtube.com/watch?v=suyiOz4uPPo"><img src="http://img.youtube.com/vi/suyiOz4uPPo/0.jpg" alt="Raul Astudillo" width="60%"></a>-->
 
 **Abstract:** Experimentation is ubiquitous in science and a key driver of human progress. Many experimentation tasks can be cast as optimization problems with expensive or time-consuming to evaluate objective functions. Bayesian optimization has emerged as a powerful tool for tackling such problems. However, many experimentation tasks arising in high-stakes applications such as materials design and drug discovery are out of the reach of standard approaches. In this talk, I will describe recent advances that aim to address this challenge. In particular, I will focus on how the composite structure of many experimentation tasks can be exploited to improve the efficiency and scalability of Bayesian optimization methods. Finally, I will provide directions for future research toward a general framework for efficient end-to-end adaptive experimental design in complex settings.
 
