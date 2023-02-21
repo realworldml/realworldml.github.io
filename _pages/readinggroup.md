@@ -38,6 +38,23 @@ nav_order: 2
 ### Next Talk
 <div style="margin-bottom: 5mm;"></div>
 
+<img src="../assets/img/speaker-circles/haitham.png" alt="" width="15%"> &emsp;
+[Haitham Bou Ammar](http://bouammar.com/), &nbsp; **February 23, 2023**
+
+**Title:** Combinatorial Bayesian Optimisation with Applications to Antibody discovery and Logic Synthesis EDA
+
+**Abstract:** Many critical emerging real-world problems are instances of combinatorial optimisation with an expensive-to-evaluate (non-linear) black-box objective. Examples are widespread, including machine learning, robotics, medicine and chip design scenarios. In those cases, standard combinatorial solvers, e.g., simulated annealing and genetic algorithms, face difficulties due to the high-sample complexity associated with their heuristics. In this talk, we will elaborate on new combinatorial solvers that extend Bayesian optimisation to discrete spaces and can handle expensive-to-evaluate (non-linear) black-box objectives. We detail Gaussian process kernels that operate in combinatorial spaces and illustrate effective acquisition optimisation techniques over discrete domains. We then apply such solutions to two real-world use cases from antibody design and logic synthesis EDA. Our results demonstrate effective solutions leading us to rank 1 in the EPFL logic synthesis benchmark in 2022.
+
+**Relevant Papers:**
+- [Toward real-world automated antibody design with combinatorial Bayesian optimization](https://www.cell.com/cell-reports-methods/pdf/S2667-2375(22)00276-4.pdf)
+- [BOiLS: Bayesian Optimisation for Logic Synthesis](https://arxiv.org/abs/2111.06178)
+
+**Bio:** Haitham Bou-Ammar leads the reinforcement learning team at Huawei technologies Research and Development UK and is an Honorary Lecturer at UCL. His primary research interests lie in the field of statistical machine learning and artificial intelligence, focusing on Bayesian optimisation, probabilistic modeling, and reinforcement learning. He is also interested in learning using massive amounts of data over extended time horizons – a property common to "Big-Data" problems. His research also spans different areas of control theory, nonlinear dynamical systems, social networks, and distributed optimisation.
+
+<div style="margin-bottom: 7mm;"></div>
+### Past Talks
+<div style="margin-bottom: 5mm;"></div>
+
 <img src="../assets/img/speaker-circles/aldo.png" alt="" width="15%"> &emsp;
 [Aldo Pacchiano](https://www.aldopacchiano.ai/), &nbsp; **February 16, 2023**
 
@@ -50,10 +67,6 @@ nav_order: 2
 - [Dueling RL: Reinforcement Learning with Trajectory Preferences](https://arxiv.org/abs/2111.04850)
 
 **Bio:** Aldo is a Postdoctoral Researcher at Microsoft Research NYC. He obtained his PhD at UC Berkeley where he was advised by Peter Bartlett and Michael Jordan. His research lies in the areas of Reinforcement Learning, Online Learning, Bandits and Algorithmic Fairness. He is particularly interested in furthering our statistical understanding of learning phenomena in adaptive environments and use these theoretical insights and techniques to design efficient and safe algorithms for scientific, engineering, and large-scale societal applications.
-
-<div style="margin-bottom: 7mm;"></div>
-### Past Talks
-<div style="margin-bottom: 5mm;"></div>
 
 <img src="../assets/img/speaker-circles/emmanuel.png" alt="" width="15%"> &emsp;
 [Emmanuel Bengio](https://folinoid.com/), &nbsp; **February 2, 2023**
