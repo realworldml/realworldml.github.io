@@ -38,6 +38,23 @@ nav_order: 2
 ### Next Talk
 <div style="margin-bottom: 5mm;"></div>
 
+<img src="../assets/img/speaker-circles/kevin_t.png" alt="" width="15%"> &emsp;
+[Kevin Tran](https://ktran9891.github.io/), &nbsp; **March 2, 2023**
+
+**Title:** Active materials discovery for sustainable energy storage
+
+**Abstract:** We may be able to slow the effects of climate change by transitioning from fossil fuels to solar energy, but solar energy’s inconsistent availability makes implementation difficult. This could be addressed by storing the energy in solar fuels, which are fuels created from solar energy, CO₂, and H₂O. Unfortunately, solar fuels are hindered by insufficiently mature material technologies. In this talk, we discuss two past studies where we used active learning to discover catalysts for solar fuel production. We then review several other examples of active learning in the materials informatics community. We end by discussing open issues with active learning in the materials informatics community.
+
+<!--**Relevant Papers:**-->
+<!--- [Paper 1](https://link1)-->
+<!--- [Paper 2](https://link2)-->
+
+**Bio:** Kevin Tran is a senior research scientist at Toyota Research Institute (TRI). He works on accelerated materials design and discovery in TRI's Energy & Materials division. His work focuses on developing methods to improve the rate at which we can advance technologies for sustainable energy storage, which often manifests in the form of modeling and automated decision making. Kevin also has experience in software development, process engineering, and biomedical engineering. He received his PhD in chemical engineering at Carnegie Mellon University with Zachary Ulissi, and his bachelor's in chemical engineering at the University of Delaware with Babatunde Ogunnaike.
+
+<div style="margin-bottom: 7mm;"></div>
+### Past Talks
+<div style="margin-bottom: 5mm;"></div>
+
 <img src="../assets/img/speaker-circles/haitham.png" alt="" width="15%"> &emsp;
 [Haitham Bou Ammar](http://bouammar.com/), &nbsp; **February 23, 2023**
 
@@ -50,10 +67,6 @@ nav_order: 2
 - [BOiLS: Bayesian Optimisation for Logic Synthesis](https://arxiv.org/abs/2111.06178)
 
 **Bio:** Haitham Bou-Ammar leads the reinforcement learning team at Huawei technologies Research and Development UK and is an Honorary Lecturer at UCL. His primary research interests lie in the field of statistical machine learning and artificial intelligence, focusing on Bayesian optimisation, probabilistic modeling, and reinforcement learning. He is also interested in learning using massive amounts of data over extended time horizons – a property common to "Big-Data" problems. His research also spans different areas of control theory, nonlinear dynamical systems, social networks, and distributed optimisation.
-
-<div style="margin-bottom: 7mm;"></div>
-### Past Talks
-<div style="margin-bottom: 5mm;"></div>
 
 <img src="../assets/img/speaker-circles/aldo.png" alt="" width="15%"> &emsp;
 [Aldo Pacchiano](https://www.aldopacchiano.ai/), &nbsp; **February 16, 2023**
