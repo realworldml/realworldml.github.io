@@ -45,9 +45,9 @@ nav_order: 2
 
 **Abstract:** We may be able to slow the effects of climate change by transitioning from fossil fuels to solar energy, but solar energy’s inconsistent availability makes implementation difficult. This could be addressed by storing the energy in solar fuels, which are fuels created from solar energy, CO₂, and H₂O. Unfortunately, solar fuels are hindered by insufficiently mature material technologies. In this talk, we discuss two past studies where we used active learning to discover catalysts for solar fuel production. We then review several other examples of active learning in the materials informatics community. We end by discussing open issues with active learning in the materials informatics community.
 
-<!--**Relevant Papers:**-->
-<!--- [Paper 1](https://link1)-->
-<!--- [Paper 2](https://link2)-->
+**Relevant Papers:**
+- [Computational catalyst discovery: Active classification through myopic multiscale sampling](https://aip.scitation.org/doi/full/10.1063/5.0044989)
+- [Toward autonomous materials research: Recent progress and future challenges](https://aip.scitation.org/doi/10.1063/5.0076324)
 
 **Bio:** Kevin Tran is a senior research scientist at Toyota Research Institute (TRI). He works on accelerated materials design and discovery in TRI's Energy & Materials division. His work focuses on developing methods to improve the rate at which we can advance technologies for sustainable energy storage, which often manifests in the form of modeling and automated decision making. Kevin also has experience in software development, process engineering, and biomedical engineering. He received his PhD in chemical engineering at Carnegie Mellon University with Zachary Ulissi, and his bachelor's in chemical engineering at the University of Delaware with Babatunde Ogunnaike.
 
