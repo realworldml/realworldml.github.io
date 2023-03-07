@@ -38,6 +38,23 @@ nav_order: 2
 ### Next Talk
 <div style="margin-bottom: 5mm;"></div>
 
+<img src="../assets/img/speaker-circles/zi.png" alt="" width="15%"> &emsp;
+[Zi Wang](https://ziw.mit.edu/), &nbsp; **March 9, 2023**
+
+**Title:** Experimental Design and Domain Expertise: The Essential Ingredients for Robot Learning
+
+**Abstract:** Artificial intelligence researchers have long sought to embed learning abilities in robotic systems. We identify three stages of developing intelligent agents: (1) prior engineering, where knowledge is built in by experts; (2) skill learning by experimenting; and (3) adaptation to new situations. We demonstrate examples of these stages on complex long-horizon robot manipulation tasks. In particular, we show how data efficient learning can be enabled by combining domain expertise and experimental design. Finally, we discuss the Bayesian alignment problem, which is how to align Bayesian priors in intelligent systems with expert beliefs, so that we can better understand and control the behaviors of these systems.
+
+**Relevant Papers:**
+- [Learning compositional models of robot skills for task and motion planning](https://arxiv.org/abs/2006.06444)
+- [Pre-trained Gaussian processes for Bayesian optimization](https://arxiv.org/abs/2109.08215)
+
+**Bio:** Zi Wang is a research scientist at Google Research, Brain Team. Her research focuses on probabilistic methods for decision making, including problems such as Bayesian optimization, active learning and robot learning. Zi obtained her Ph.D. in computer science from Massachusetts Institute of Technology in 2020, where she was awarded MIT Graduate Women of Excellence, Rising Stars in EECS, and RSS Pioneers.
+
+<div style="margin-bottom: 7mm;"></div>
+### Past Talks
+<div style="margin-bottom: 5mm;"></div>
+
 <img src="../assets/img/speaker-circles/kevin_t.png" alt="" width="15%"> &emsp;
 [Kevin Tran](https://ktran9891.github.io/), &nbsp; **March 2, 2023**
 
@@ -50,10 +67,6 @@ nav_order: 2
 - [Toward autonomous materials research: Recent progress and future challenges](https://aip.scitation.org/doi/10.1063/5.0076324)
 
 **Bio:** Kevin Tran is a senior research scientist at Toyota Research Institute (TRI). He works on accelerated materials design and discovery in TRI's Energy & Materials division. His work focuses on developing methods to improve the rate at which we can advance technologies for sustainable energy storage, which often manifests in the form of modeling and automated decision making. Kevin also has experience in software development, process engineering, and biomedical engineering. He received his PhD in chemical engineering at Carnegie Mellon University with Zachary Ulissi, and his bachelor's in chemical engineering at the University of Delaware with Babatunde Ogunnaike.
-
-<div style="margin-bottom: 7mm;"></div>
-### Past Talks
-<div style="margin-bottom: 5mm;"></div>
 
 <img src="../assets/img/speaker-circles/haitham.png" alt="" width="15%"> &emsp;
 [Haitham Bou Ammar](http://bouammar.com/), &nbsp; **February 23, 2023**
