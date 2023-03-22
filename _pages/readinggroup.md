@@ -38,6 +38,23 @@ nav_order: 2
 ### Next Talk
 <div style="margin-bottom: 5mm;"></div>
 
+<img src="../assets/img/speaker-circles/johannes.png" alt="" width="15%"> &emsp;
+[Johannes Kirschner](https://johannes-kirschner.de/), &nbsp; **March 23, 2023**
+
+**Title:** Data-Driven Optimization of Particle Accelerators with Safety Constraints
+
+**Abstract:** Tuning machine parameters of particle accelerators is a repetitive and time-consuming task that is challenging to automate. While many off-the-shelf optimization algorithms are available, their use is limited in practice because most methods need to account for safety-critical constraints in each iteration, such as loss signals or step-size limitations. One notable exception is Bayesian optimization, a data-driven tuning approach for global optimization with noisy feedback. We propose a Bayesian optimization algorithm (SafeLineBO) that combines line search techniques and safety constraints, and exhibits favourable properties in high-dimensional settings. We evaluate our method on two particle accelerators of the Paul Sherrer Institute, demonstrating efficacy and efficiency for tuning up to 16 parameters subject to 224 constraints.
+
+**Relevant Papers:**
+- [Tuning particle accelerators with safety constraints using Bayesian optimization](https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.25.062802)
+- [Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces](http://proceedings.mlr.press/v97/kirschner19a.html)
+
+**Bio:** Johannes Kirschner is a postdoc fellow with Prof. Csaba Szepesvári at the University of Alberta (supported by an "Early Postdoc Mobility fellowship" of the Swiss National Foundation). Johannes' research is focused on reinforcement learning algorithms, experimental design and data-driven decision-making, and his work spans theoretical foundations to challenging real-world applications. Before joining the University of Alberta, Johannes obtained his PhD at ETH Zurich with Prof. Andreas Krause.
+
+<div style="margin-bottom: 7mm;"></div>
+### Past Talks
+<div style="margin-bottom: 5mm;"></div>
+
 <img src="../assets/img/speaker-circles/viraj.png" alt="" width="15%"> &emsp;
 [Viraj Mehta](https://virajm.com/), &nbsp; **March 16, 2023**
 
@@ -50,10 +67,6 @@ nav_order: 2
 <!--- [Paper Title Two](https://urltwo)-->
 
 **Bio:** Viraj Mehta is a fourth-year PhD student at the Robotics Institute at Carnegie Mellon University. He is broadly interested in reinforcement learning, generative models, and dynamical systems. In particular he works on solving control problems in science with machine learning in regimes where the data-generating process is expensive. Much of his work is motivated by the problem of plasma control for nuclear fusion, for which he conducts applied research in collaboration with the Princeton Plasma Physics Lab. His work has appeared in Neurips, ICML, ICLR, CDC, and other venues.
-
-<div style="margin-bottom: 7mm;"></div>
-### Past Talks
-<div style="margin-bottom: 5mm;"></div>
 
 <img src="../assets/img/speaker-circles/zi.png" alt="" width="15%"> &emsp;
 [Zi Wang](https://ziw.mit.edu/), &nbsp; **March 9, 2023**
