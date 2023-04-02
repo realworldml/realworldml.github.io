@@ -34,8 +34,12 @@ nav_order: 2
 10. &nbsp;**March 23, 2023** &emsp;&emsp;&nbsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
     &emsp;&ensp;&nbsp;<img src="../assets/img/speaker-circles/johannes.png" alt="" width="7%">
 
+<!--<div style="margin-bottom: 7mm;"></div>-->
+<!--### Next Talk-->
+<!--<div style="margin-bottom: 5mm;"></div>-->
+
 <div style="margin-bottom: 7mm;"></div>
-### Next Talk
+### Past Talks
 <div style="margin-bottom: 5mm;"></div>
 
 <img src="../assets/img/speaker-circles/johannes.png" alt="" width="15%"> &emsp;
@@ -50,10 +54,6 @@ nav_order: 2
 - [Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces](http://proceedings.mlr.press/v97/kirschner19a.html)
 
 **Bio:** Johannes Kirschner is a postdoc fellow with Prof. Csaba Szepesvári at the University of Alberta (supported by an "Early Postdoc Mobility fellowship" of the Swiss National Foundation). Johannes' research is focused on reinforcement learning algorithms, experimental design and data-driven decision-making, and his work spans theoretical foundations to challenging real-world applications. Before joining the University of Alberta, Johannes obtained his PhD at ETH Zurich with Prof. Andreas Krause.
-
-<div style="margin-bottom: 7mm;"></div>
-### Past Talks
-<div style="margin-bottom: 5mm;"></div>
 
 <img src="../assets/img/speaker-circles/viraj.png" alt="" width="15%"> &emsp;
 [Viraj Mehta](https://virajm.com/), &nbsp; **March 16, 2023**
