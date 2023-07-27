@@ -5,6 +5,9 @@ nav: true
 nav_order: 3
 dropdown: true
 children: 
+    - title: NeurIPS 2023
+      permalink: https://realworldml.github.io/neurips2023/
+    - title: divider
     - title: ICML 2022
       permalink: https://realworldml.github.io/icml2022/
     - title: divider
