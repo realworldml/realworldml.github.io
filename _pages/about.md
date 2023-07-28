@@ -48,6 +48,8 @@ more.
 <br/>
 
 ## Workshop Series
+- NeurIPS 2023: [Adaptive Experimental Design and Active Learning in the Real
+  World](https://realworldml.github.io/neurips2023/).
 - ICML 2022: [Adaptive Experimental Design and Active Learning in the Real
   World](https://realworldml.github.io/icml2022/).
 - ICML 2020: [Workshop on Real World Experiment Design and Active
